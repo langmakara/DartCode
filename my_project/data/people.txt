@@ -1,0 +1,5 @@
+person:Leng Nara/29
+student:Chan Mom/45/95.5
+worker:Chan Keh/33/Sun Light Factory
+student:Van Neary/25/88.0
+person:Vong Sothy/22
